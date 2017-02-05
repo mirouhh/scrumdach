@@ -54,8 +54,4 @@ $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
 $logos-sprite: $sprites-dir + "/logos.svg";
 
-// DACH Logo
-$logos-dir: $image-dir + "/logos";
-$s_dach_logo: $logos-dir + "/S_DACHChapter_Logo_small.png";
-
 @import "modules/all";

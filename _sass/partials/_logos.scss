@@ -1,0 +1,8 @@
+// DACH Logo
+$logos-dir: $image-dir + "/logos";
+$s_dach_logo: $logos-dir + "/sdach_logo.png";
+
+.s_dach_logo {
+    background-image: url($s_dach_logo);
+    background-repeat: no-repeat;
+}
