@@ -1,0 +1,54 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "German Chapter der ScrumAlliance"
+email: "kontakt@scrumdach.de"
+description: "Das German Chapter der ScrumAlliance ist die Interessensvertretung der deutschsprachigen Mitglieder aus D-A-CH."
+baseurl: "/scrumdach"
+url: "https://mirouhh.github.io/scrumdach/"
+permalink: "/blog/:title"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Head
+metaKeywords: "scrumalliance, scrum, agile, scrum gathering, gathering, coaching, training, scrum master, product owner, developer"
+# twitterAccount: "@mirouhh"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Navigation
+navigationLinks:
+- {permalink: "/", text: "Home"}
+# - {permalink: "/blog/", text: "Aktuelles"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Arbeitsgruppen"}
+# - {permalink: "/team/", text: "Board"}
+# - {permalink: "/logistics/", text: "Kontakt"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
+#bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+# Hero Block
+heroImage: "open_space_sgmun_dunkel.jpg"
+heroTitle: "Scrum  <typeout> "
+eventDate: "Dein Zugang zur deutschsprachigen Scrum - Community"
+typeoutTextValues: '"", "Alliance", "Community Deutschland", "Community Österreich", "Community Schweiz", "D-A-CH", "Gathering Regional"'
+typeoutFallback: "Alliance :: D-A-CH Chapter"
+heroButtons:
+ - {link: "http://bit.ly/2mDvj6c", text: "Weiter zu den Community - Seiten der Scrum Alliance >>>"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
+
+
