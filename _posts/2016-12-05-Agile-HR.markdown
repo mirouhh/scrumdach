@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Agile HR"
+date:   2016-12-05 09:00:00
+isStaticPost: false
+---
+Als bunte Truppe von Interessierten am Thema Agile HR haben wir uns zusammengefunden.<br/>
+
+Initial war der Gedanke, sich zunächst mit dem Thema Recruiting zu beschäftigen und dadurch auch einen Schwenk in einen Schnittstellenbereich zu machen: dem Employer Branding.<br/>
+
+Wir haben uns nach dem Treffen in München nun bereits zweimal per Skype getroffen. Aktuell arbeiten wir am Big Picture (“Was ist denn eigentlich Agile HR?”), an Quick-Wins (Fallbeispiele für Recruiting von ScrumMastern) und selbstverständlich auch an der Organisation von uns selbst.<br/>
+
+[weiter zum kompletten Blogpost auf den Community - Seiten der Scrum Alliance >>>](http://membership.scrumalliance.org/blogpost/1482889/263718/Agile-HR)

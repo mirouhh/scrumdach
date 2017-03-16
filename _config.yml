@@ -30,7 +30,7 @@ twitterAccount: "@scrumdach"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Sessions"}
 # - {permalink: "/speakers/", text: "Referenten"}
 # - {permalink: "/team/", text: "Team"}
@@ -63,6 +63,7 @@ statisticBlock:
  - {count: "345", specialCharacter: "+", info: "CSP", detail: "Professionals mit mehrjähriger praktische Erfahrung"}
  - {count: "8036", specialCharacter: "+", info: "CSM/CSPO/CSD", detail: "in Deutschland, Österreich und der Schweiz"}
  - {count: "87", specialCharacter: "+", info: "User Groups", detail: "Lokaler Austausch zu den Themen Scrum & Agilität"}
+ - {count: "10", specialCharacter: "+", info: "Arbeitsgruppen", detail: "Überregionale Zusammenarbeit an wertvollen Themen'"}
 
 # Latest News Block
 latestNewsTitle: "Neuigkeiten"

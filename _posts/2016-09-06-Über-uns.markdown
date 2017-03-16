@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Über uns"
+date:   2016-09-06 09:00:00
+isStaticPost: false
+---
+Willkommen auf der Homepage des deutschsprachigen Chapters der ScrumAlliance für Deutschland, Österreich und die Schweiz.
+Unsere selbstgewählte Vision lautet in der Version 1.1. : <b>Für deutschsprachige Unternehmen und Einzelpersonen, die ein Bedürfnis nach Orientierung, vertrauenswürdigen Partnern und qualifiziertem Lernen haben, ist das deutschsprachige Chapter der ScrumAlliance die primäre Anlaufstelle.</b><br/>
+
+[weiter zum kompletten Blogpost auf den Community - Seiten der Scrum Alliance >>>](http://membership.scrumalliance.org/blogpost/1482889/256320/Uber-uns)
