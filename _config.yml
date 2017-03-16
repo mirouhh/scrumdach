@@ -45,24 +45,24 @@ navigationLinks:
 heroImage: "open_space_sgmun_dunkel.jpg"
 heroTitle: "Scrum<typeout> "
 eventDate: "Dein Zugang zur deutschsprachigen Scrum - Community"
-typeoutTextValues: '"", " Community Deutschland", " Community Österreich", " Community Schweiz", "Community D-A-CH", " Gathering Regional"'
+typeoutTextValues: '"", " Community Deutschland", " Community Österreich", " Community Schweiz", " Community D-A-CH", " Gathering Regional"'
 typeoutFallback: "Alliance :: D-A-CH Chapter"
 heroButtons:
  - {link: "http://bit.ly/2mDvj6c", text: "Weiter zu den Community - Seiten der Scrum Alliance >>>"}
 # - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
 
 # About Block
-aboutTitle: "Über das freiraum.camp 2015"
+aboutTitle: "Warum eigentlich ein deutschsprachiges Chapter der Scrum Alliance, ein D-A-CH Chapter?"
 aboutBlock:
- - {title: "Konferenz", image: "conference.jpg", text: "Höre, welche Erfahrungen bisher gesammelt worden sind und hole Dir Anregungen für Deine Arbeitswelt!" }
+ - {title: "", image: "conference.jpg", text: "Wir möchten die Interessen der Community aus der Region D-A-CH besser in Richtung Scrum Alliance (US) vertreten & der Scrum Alliance hier ein Gesicht geben!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "Teilnehmer", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
- - {count: "20", specialCharacter: "+", info: "Stunden", detail: "Austausch über moderne Arbeitswelten"}
- - {count: "20", specialCharacter: "+", info: "Referenten", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
- - {count: "17", specialCharacter: "+", info: "Sessions", detail: "zum Thema 'Neue Organisationsformen' und 'Neue Arbeitsweisen'"}
+ - {count: "23", specialCharacter: "+", info: "CST/CEC/CTC", detail: "Experten auf Enterprise-Ebene für Training & Coaching"}
+ - {count: "345", specialCharacter: "+", info: "CSP", detail: "Professionals mit mehrjähriger praktische Erfahrung"}
+ - {count: "8036", specialCharacter: "+", info: "CSM/CSPO/CSD", detail: "in Deutschland, Österreich und der Schweiz"}
+ - {count: "87", specialCharacter: "+", info: "User Groups", detail: "Lokaler Austausch zu den Themen Scrum & Agilität"}
 
 # Latest News Block
 latestNewsTitle: "Neuigkeiten"
