@@ -54,13 +54,13 @@ navigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "open_space_sgmun.jpg"
-# heroTitle: "GDG DevFest <typeout> 2014"
-# eventDate: "September - November, 2014"
-# typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-# typeoutFallback: "Season"
+heroImage: "open_space_sgmun_dunkel.jpg"
+heroTitle: "Scrum <typeout> "
+eventDate: "Dein Zugang zur deutschsprachigen Scrum - Community"
+typeoutTextValues: '"", "Alliance", "Community Deutschland", "Community Österreich", "Community Schweiz", "D-A-CH", "Gathering Regional"'
+typeoutFallback: "Alliance :: D-A-CH Chapter"
 heroButtons:
- - {link: "http://bit.ly/2mDvj6c", text: "Weiter zu den Community-Seiten der Scrum Alliance"}
+ - {link: "http://bit.ly/2mDvj6c", text: "Weiter zu den Community - Seiten der Scrum Alliance >>>"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
