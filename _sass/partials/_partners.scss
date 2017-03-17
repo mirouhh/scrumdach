@@ -6,7 +6,21 @@
         margin-bottom: 65px;
         li {
             width: 16%;
-            max-width: 180px;
+            max-width: 120px;
+            margin: 13px 7px;
+            @media (max-width: 767px) {
+                width: 40%;
+                max-width: 160px;
+            }
+        }
+    }
+    .list-inline-sa {
+        margin-bottom: 65px;
+        list-style: none;
+        li {
+            display: inline-block;
+            width: 100%;
+            max-width: 400px;
             margin: 13px 7px;
             @media (max-width: 767px) {
                 width: 40%;
