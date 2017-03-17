@@ -146,4 +146,10 @@ footerBlocks:
 # Blog
 blogTitle: "Neuigkeiten"
 blogCommentsEnabled: false
-discusShortName: "freiraum"
+discusShortName: "Scrum D-A-CH"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Melde Dich für den Newsletter an!"
+subscribeAction: "https://scrumdach.us15.list-manage.com/subscribe/post?u=9d8160614819e950a631a3f2c&amp;id=ca837000f0"
+subscribeInfo: "Wir werden von Zeit zu Zeit in unregelmäßigen Abständen Neuigkeiten bekanntgeben. Bleib dran!"
