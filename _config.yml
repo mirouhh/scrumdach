@@ -63,7 +63,7 @@ statisticBlock:
  - {count: "345", specialCharacter: "+", info: "CSP", detail: "Professionals mit mehrjähriger praktischer Erfahrung"}
  - {count: "8036", specialCharacter: "+", info: "CSM/CSPO/CSD", detail: "in Deutschland, Österreich und der Schweiz"}
  - {count: "87", specialCharacter: "+", info: "User Groups", detail: "Lokaler Austausch zu den Themen Scrum & Agilität"}
- - {count: "10", specialCharacter: "+", info: "Arbeitsgruppen", detail: "Überregionale Zusammenarbeit an wertvollen Themen'"}
+ - {count: "10", specialCharacter: "+", info: "Arbeitsgruppen", detail: "Überregionale Zusammenarbeit an wertvollen Themen"}
 
 # Latest News Block
 latestNewsTitle: "Neuigkeiten"
@@ -83,9 +83,9 @@ eventAddressLocality: "Karlsruhe"
 eventAddressLocalityRegion: "Baden-Württemberg"
 eventPostalCode: "76137"
 eventAddressCountry: "Deutschland"
-eventPlaceCoordinates: "48.9991552, 8.3939384"
-mapCenterCoordinates: "48.9991552, 8.3939384"
-mapMobileCenterCoordinates: "48.9991552, 8.3939384"
+eventPlaceCoordinates: "48.999155, 8.393938"
+mapCenterCoordinates: "48.999155, 8.393938"
+mapMobileCenterCoordinates: "48.999155, 8.393938"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
