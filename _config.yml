@@ -70,9 +70,9 @@ latestNewsTitle: "Neuigkeiten"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstars aus den Arbeitsgruppen"
-rockstarSpeakersButtonText: "Wer sind diejenigen, die sich den Themen committed haben?"
+rockstarSpeakersButtonText: "Wer sind diejenigen, die hinter den Themen stehen?"
 
 # Location Block
 locationBlockTitle: "Kontakt?"
@@ -90,7 +90,7 @@ mapMobileCenterCoordinates: "48.999155, 8.393938"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Was geht?"
-twitterHashTag: "frrm15"
+twitterHashTag: "scrumdach"
 
 # Documents
 c4pUrl: "http://bit.ly/2mDvj6c"
