@@ -31,9 +31,9 @@ twitterAccount: "@scrumdach"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/team/", text: "Vorstand"}
 # - {permalink: "/schedule/", text: "Sessions"}
 # - {permalink: "/speakers/", text: "Referenten"}
-# - {permalink: "/team/", text: "Team"}
 # bottomNavigationLinks:
 # - {link: "./schedule/", text: "Zur Agenda >>>"}
 # - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
