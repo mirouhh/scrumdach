@@ -31,7 +31,7 @@ twitterAccount: "@scrumdach"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/team/", text: "Vorstand"}
+ - {permalink: "/board/", text: "Vorstand"}
 # - {permalink: "/schedule/", text: "Sessions"}
 # - {permalink: "/speakers/", text: "Referenten"}
 # bottomNavigationLinks:

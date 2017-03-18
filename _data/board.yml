@@ -1,0 +1,70 @@
+-
+  id: 0
+  name: "Reupke-Sieroux"
+  surname: "Sandra"
+  title: "CSP, CSD, CSM, CSPO"
+  thumbnailUrl: sandra-reupke-sieroux.jpg
+  board: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Sandra_ReupkeSieroux"}
+    - {name: "linkedin", link: "http://de.linkedin.com/in/sandra-reupke-sieroux-23899614/"}
+    - {name: "twitter", link: "https://twitter.com/sieroux"}
+    - {name: "site", link: "http://www.it-agile.de"}
+-
+  id: 1
+  name: "Kruse"
+  surname: "Ralf"
+  title: "CST, CEC, CSP, CSM, CSPO"
+  thumbnailUrl: ralf_kruse.jpg
+  board: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Ralf_Kruse4"}
+    - {name: "linkedin", link: "http://de.linkedin.com/in/ralfhh/"}
+    - {name: "twitter", link: "https://twitter.com/ralfhh"}
+    - {name: "site", link: "http://www.it-warehouse.de"}
+-
+  id: 2
+  name: "Jensen"
+  surname: "Björn"
+  title: "CST, CSP, CSD, CSM, CSPO, REP"
+  thumbnailUrl: BjoernJensen.jpg
+  board: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Bjoern_Jensen3"}
+    - {name: "linkedin", link: "http://de.linkedin.com/in/mirouhh/"}
+    - {name: "google-plus", link: "https://google.com/+BjörnJensen_hh"}
+    - {name: "twitter", link: "https://twitter.com/mirouhh"}
+    - {name: "site", link: "http://www.improuv.com"}
+-
+  id: 3
+  name: "Hoffmann"
+  surname: "Dr. Jürgen"
+  title: "CST, CEC, CSP, CSD, CSM, CSPO, REP"
+  thumbnailUrl: juergen_hoffmann.jpg
+  board: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Juergen_Hoffmann2"}
+    - {name: "linkedin", link: "http://de.linkedin.com/in/scrumcoachde/"}
+    - {name: "twitter", link: "https://twitter.com/doc_mentos"}
+    - {name: "site", link: "http://www.emendare.de"}
+-
+  id: 4
+  name: "Wolf"
+  surname: "Henning"
+  title: "CST, CSP, CSM, CSPO, REP"
+  thumbnailUrl: henning_wolf.jpg
+  board: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Henning_Wolf"}
+    - {name: "twitter", link: "https://twitter.com/henningwolf"}
+    - {name: "site", link: "http://www.it-agile.de"}
