@@ -68,3 +68,15 @@
     - {name: "site", link: "https://www.xing.com/profile/Henning_Wolf"}
     - {name: "twitter", link: "https://twitter.com/henningwolf"}
     - {name: "site", link: "http://www.it-agile.de"}
+-
+  id: 5
+  name: "Schaub"
+  surname: "Martina"
+  title: "CSM"
+  thumbnailUrl: martina_schaub.jpg
+  subBoard: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Martina_Schaub"}
+    - {name: "site", link: "http://www.emendare.de"}
